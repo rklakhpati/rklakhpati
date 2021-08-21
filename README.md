@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rklakhpati
-- 👀 I’m interested in cloude and DevOps
+- 👀 I’m interested in cloud and DevOps
 - 🌱 I’m currently learning Git
 
 <!---
